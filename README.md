@@ -1,5 +1,7 @@
 # 📱 Primeiro Projeto Kotlin — Contador
 
+Autor: Rafael Casemiro
+
 Projeto desenvolvido em **Kotlin** utilizando **Android Studio**, com o objetivo de criar um aplicativo simples de contador, permitindo ao usuário **adicionar e subtrair valores** através de uma interface interativa.
 
 ## 🎯 Objetivo
